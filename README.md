@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Frontend-Modern_UI-blue">
   <img src="https://img.shields.io/badge/Backend-Scalable-green">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen">
-  <img src="https://img.shields.io/badge/Made%20By-Avijit%20Roy-orange">
+  <img src="https://img.shields.io/badge/Made%20By-Anirban%20Kundu-orange">
 </p>
 
 ---
