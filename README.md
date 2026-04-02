@@ -45,15 +45,15 @@ This project demonstrates **real-world application architecture**, including aut
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- HTML / CSS / JavaScript  
-- (Add React if used)
+- HTML / CSS / JavaScript
+- JSP
 
 ### ⚙️ Backend
-- Node.js / Express *(if used)*  
+- SERVLET 
 - REST APIs  
 
 ### 🗄️ Database
-- MongoDB / MySQL *(mention yours)*  
+- MySQL
 
 ---
 
