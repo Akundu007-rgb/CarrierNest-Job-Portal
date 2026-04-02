@@ -68,16 +68,14 @@ Authentication & Job Data
 ---
 
 ## 📂 Project Structure
-
-
+```
 CarrierNest/
 │── frontend/
 │── backend/
 │── database/
 │── assets/
 │── README.md
-
-
+```
 ---
 
 ## ⚙️ Installation & Setup
@@ -85,48 +83,54 @@ CarrierNest/
 ### 1️⃣ Clone the repository
 ```bash id="clone1"
 git clone https://github.com/Akundu007-rgb/CarrierNest-Job-Portal.git
-2️⃣ Navigate to project folder
+```
+### 2️⃣ Navigate to project folder
+```bash
 cd CarrierNest-Job-Portal
-3️⃣ Install dependencies
+```
+### 3️⃣ Install dependencies
+```bash
 npm install
-4️⃣ Run the project
+```
+### 4️⃣ Run the project
+```bash
 npm start
-🧪 Features Breakdown
-👨‍💼 Job Seeker
-Browse jobs
-Apply with resume
-Track applications
-🏢 Recruiter
-Post job listings
-Manage candidates
-View applications
-🚧 Future Enhancements
-🤖 AI-based job recommendations
-📊 Analytics dashboard
-📱 Mobile app version
-🔔 Notifications system
-📸 Screenshots (Add here)
+```
+---
 
-Add UI screenshots or GIFs to make it more attractive
+## 🧪 Features Breakdown
+### 👨‍💼 Job Seeker
+- Browse jobs
+- Apply with resume
+- Track applications
+### 🏢 Recruiter
+- Post job listings
+- Manage candidates
+- View applications
+---
+## 🚧 Future Enhancements
+- 🤖 AI-based job recommendations
+- 📊 Analytics dashboard
+- 📱 Mobile app version
+- 🔔 Notifications system
+---
+## 🧠 What I Learned
+- Full-stack development
+- REST API design
+- Authentication systems
+- Real-world project structuring
 
-🧠 What I Learned
-Full-stack development
-REST API design
-Authentication systems
-Real-world project structuring
-👨‍💻 Author
-
-Anirban Kundu
+---
+## 👨‍💻 Author
+**Anirban Kundu**<br>
 🎓 B.Tech CSE | 💡 Aspiring Software Engineer
 
-🌟 Support
-
+---
+## 🌟 Support
 If you like this project:
+- ⭐ Star this repository
+- 🍴 Fork it
+- 📢 Share it
 
-⭐ Star this repository
-🍴 Fork it
-📢 Share it
-
-📜 License
-
+## 📜 License
 This project is open-source and available for learning purposes.
